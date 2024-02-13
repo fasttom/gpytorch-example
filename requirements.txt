@@ -5,6 +5,7 @@ gpytorch
 numpy
 pandas
 scikit-learn
+scipy
 matplotlib
 seaborn
 jupyter
