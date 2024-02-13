@@ -3,3 +3,5 @@
 *.pth
 *.dat
 **/_data
+.github/*
+.devcontainer/*
